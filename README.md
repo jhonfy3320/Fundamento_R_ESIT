@@ -43,5 +43,5 @@ Este repositorio contiene un proyecto de análisis de datos aplicado a la Econom
 ### Requisitos Previos
 1. Instalar R y RStudio.
 2. Instalar los paquetes necesarios ejecutando:
-   ```r
+   ```
    install.packages(c("ggplot2", "dplyr", "plotly", "knitr", "rmarkdown"))
